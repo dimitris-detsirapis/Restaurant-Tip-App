@@ -1,0 +1,10 @@
+venv/
+.venv/
+__pycache__/
+dist/
+build/
+*.spec
+*.exe
+Installer/
+__MACOSX/
+.DS_Store
