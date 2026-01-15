@@ -19,7 +19,7 @@ A desktop application built with Python to automate the calculation and distribu
 
 ## ⚙️ Setup & Installation
 1. Download the latest installer from the [Releases](https://github.com/dimitris-detsirapis/Restaurant-Tip-App/releases) page.
-2. Run `MnemesSetup.exe` to install the app.
+2. Run `RestaurantTipApp_Setup.exe` to install the app.
 3. Launch via the Desktop shortcut.
 
 ## 🔒 Security Note for Developers
