@@ -27,5 +27,3 @@ The application includes a manager authentication system.
 * **Default Password:** `1234` (for testing/demo purposes).
 * In a production environment, this should be configured via the `MANAGER_PASSWORD` environment variable.
 
-## 📸 Screenshots
-*(You can upload screenshots here later!)*
